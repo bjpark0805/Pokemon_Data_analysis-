@@ -19,6 +19,7 @@ Pokemon_data_analysis
 ```
 
 ### Data description
+This dataset is from [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge/kernels) of Kaggle.
 - `combats.csv`
 - `pokemon.csv`
 
