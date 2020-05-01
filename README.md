@@ -15,8 +15,7 @@ Pokemon_data_analysis
   ├── data
   │    ├── combats.csv
   │    └── pokemon.csv
-  │
-  └── Pokemon_data_analysis.ipynb: comprehensive prediction file for teacher and student models
+  └── Pokemon_data_analysis.ipynb: Ipython notebook implementing our project. 
 ```
 
 ### Data description
