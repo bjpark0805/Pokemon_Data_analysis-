@@ -2,8 +2,8 @@
 
 ## Overview
 
-This package provides an implementation of Pokemon data analysis, which is orginated from [Michael Metter's kernal](https://www.kaggle.com/mmetter/pokemon-data-analysis-tutorial/notebook). 
-I implemented this kernel by myself using Jupyter notebook, practicing my python skills, and basic data analysis. I found the missing values of the original data, calculate the battel record and winning percentage of the pokemons, and visulize the analysis using Matplotlib and Seaborn just like the original kernal. Moreover, I gave some additional comments for each cells for detailed explanations. 
+This package provides an implementation of Pokemon data analysis, which is orginated from [Michael Metter's kernel](https://www.kaggle.com/mmetter/pokemon-data-analysis-tutorial/notebook). 
+I implemented this kernel by myself using Jupyter notebook, practicing my python skills, and basic data analysis. I found the missing values of the original data, calculate the battel record and winning percentage of the pokemons, and visualize the analysis using Matplotlib and Seaborn just like the original kernal. Moreover, I gave some additional comments for each cells for detailed explanations. 
 Finally, I concluded the analysis with linear regression and SVM practice and PCA. 
 These techniques could give the prediction and validation process of the analysis. 
 
@@ -22,10 +22,11 @@ Pokemon_data_analysis
 This dataset is from [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) of Kaggle.
 - `combats.csv`
 - `pokemon.csv`
-
+- `tests.csv`
 * Note that: 
     * `pokemon.csv` is the dataset of pokedex.  
     * `combats.csv` is the dataset including battle records of the pokemons.  
+    * `tests.csv` is not used for our analysis.
 
 ## Install
 * Python 3.7
