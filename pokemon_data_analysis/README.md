@@ -13,7 +13,8 @@ The tree structure of this project is given as follows:
 Pokemon_data_analysis
   ├── data
   │    ├── combats.csv
-  │    └── pokemon.csv
+  │    ├── pokemon.csv
+  │    └── tests.csv
   └── Pokemon_data_analysis.ipynb: Ipython notebook implementing our project. 
 ```
 
