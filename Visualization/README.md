@@ -4,14 +4,14 @@ This project is referring Siddharth Yadav's kernel for showing the popular visua
 
 ### 10 unique graphing methods which are used:  
 ```
- Distplot
- Boxplot
- Radar chart 
- Scatterplot
- Contour plot
- Bubble plot
- Treemap
- Bubble chart
- Scatterplot matrix
- Violin plot
+ - Distplot
+ - Boxplot
+ - Radar chart 
+ - Scatterplot
+ - Contour plot
+ - Bubble plot
+ - Treemap
+ - Bubble chart
+ - Scatterplot matrix
+ - Violin plot
 ```
