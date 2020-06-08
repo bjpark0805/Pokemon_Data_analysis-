@@ -2,7 +2,9 @@
 
 This project is referring Siddharth Yadav's kernel for showing the popular visualization library plotly using the pokemon dataset. We can practice various rare visualization techniques as well as simple techniques with plotly library.
 
-### 10 unique graphing methods which are used:  
+Plotly provides a wide range of interactive plotting options and is one of the most interactive python visualization libraries. Highly recommended for usage.
+
+### 10 unique graphing techniques which are used:  
 ```
  - Distplot
  - Boxplot
@@ -15,3 +17,4 @@ This project is referring Siddharth Yadav's kernel for showing the popular visua
  - Scatterplot matrix
  - Violin plot
 ```
+
